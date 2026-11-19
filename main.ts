@@ -1,13 +1,9 @@
-import { cpSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
-import { join } from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { cp, mkdir, writeFile } from 'node:fs/promises';
+import { resolve } from 'node:path';
 import { buildDossier } from './vendor/makefun-frontend.ts';
-
-const project = fileURLToPath(new URL('.', import.meta.url));
-const output = process.env.MAKEFUN_OUTPUT_DIR || '/output';
-mkdirSync(output, { recursive: true });
-cpSync(join(project, 'app'), join(output, 'app'), { recursive: true });
-mkdirSync(join(output, 'screenshots'), { recursive: true });
-if (existsSync(join(project, 'screenshots'))) cpSync(join(project, 'screenshots'), join(output, 'screenshots'), { recursive: true });
-const limits = { text_max_bytes: 163840, screenshots: { max: 4, max_bytes: 262144 }, app_max_files: 993, app_max_bytes: 50331648 };
-writeFileSync(join(output, 'dossier.json'), buildDossier(output, limits));
+const output=resolve(process.env.MAKEFUN_OUTPUT_DIR||'/output');
+await mkdir(output,{recursive:true});
+await cp('app',resolve(output,'app'),{recursive:true});
+await cp('screenshots',resolve(output,'screenshots'),{recursive:true});
+const dossier=buildDossier(output,{text_max_bytes:163840,screenshots:{max:4,max_bytes:262144},app:{max_files:993,max_bytes:50331648}});
+await writeFile(resolve(output,'dossier.json'),dossier);

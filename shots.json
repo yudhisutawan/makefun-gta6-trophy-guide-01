@@ -1,6 +1,6 @@
 [
- {"file":"1-checklist.jpg","path":"/?shot=checklist&seed=1&detail=17&spoilers=on","viewport":{"height":800,"width":1280}},
- {"file":"2-roadmap.jpg","path":"/?shot=roadmap&seed=1&spoilers=on","viewport":{"height":800,"width":1280}},
- {"file":"3-missables.jpg","path":"/?shot=missables&seed=1","viewport":{"height":800,"width":1280}},
- {"file":"4-spoilers.jpg","path":"/?shot=checklist&seed=1&spoilers=off","viewport":{"height":800,"width":1280}}
+  {"file":"1-checklist.jpg","path":"/?shot=checklist&seed=1&detail=17&spoilers=on","viewport":{"height":800,"width":1280}},
+  {"file":"2-roadmap.jpg","path":"/?shot=roadmap&seed=1&spoilers=on","viewport":{"height":800,"width":1280}},
+  {"file":"3-missables.jpg","path":"/?shot=missables&seed=1","viewport":{"height":800,"width":1280}},
+  {"file":"4-spoilers.jpg","path":"/?shot=checklist&seed=1&spoilers=off","viewport":{"height":800,"width":1280}}
 ]

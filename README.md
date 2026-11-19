@@ -1,26 +1,35 @@
 # Leonida Trophy Atlas
 
-[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
-[![rank](https://make.fun/badge/gta6-trophy-guide-01/yudhisutawan/makefun-gta6-trophy-guide-01/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
-[![reward](https://make.fun/badge/gta6-trophy-guide-01/yudhisutawan/makefun-gta6-trophy-guide-01/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![Competition](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01)
+[![Rank](https://make.fun/badge/gta6-trophy-guide-01/yudhisutawan/makefun-gta6-trophy-guide-01/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01)
+[![Reward](https://make.fun/badge/gta6-trophy-guide-01/yudhisutawan/makefun-gta6-trophy-guide-01/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01)
 
-An offline field guide and progress tracker for all 55 Grand Theft Auto VI trophies on PlayStation 5. Checklist, five-stage roadmap, missable watchlist, Next up planner, spoiler curtain, notes, save export and import.
+A quiet, offline checklist and planning desk for all 55 Leonida trophies. Track progress, keep personal notes, and work from official trophy wording without pretending unverified routes are confirmed.
 
 ## Run
 
 ```sh
 node serve.ts
-# Open http://localhost:8080
 ```
+
+Open http://localhost:8080. Node 22 is required for packaging with `node main.ts`.
 
 ## Controls
 
-- `j` / `k`: move through the checklist; `e`: mark the selected trophy earned
-- `/`: search; `1`–`5`: open a section
-- `s`: toggle story spoilers; `t`: switch paper/night theme
+- `j` / `k`: next / previous trophy
+- `e`: mark selected trophy earned
+- `/`: focus search
+- `1`–`5`: checklist, roadmap, missables, planner, settings
+- `s`: toggle story spoilers
+- `t`: switch paper / night theme
 
 ## Sources
 
-Official names, descriptions and grades: [Exophase](https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/). PSN progress counts: [PSNProfiles](https://psnprofiles.com/trophies/43531-grand-theft-auto-vi). Guide notes are original interpretations of the official descriptions and have not been checked in game.
+- [Exophase trophy list](https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/) — names, descriptions and grades
+- [PSNProfiles trophy list](https://psnprofiles.com/trophies/43531-grand-theft-auto-vi) — progress targets where listed
+
+Guide notes are original interpretation of the official descriptions and are not yet checked in game. No locations or mission steps are asserted without evidence.
+
+---
 
 Made for [make.fun](https://make.fun/r/2fnbbcz4).
