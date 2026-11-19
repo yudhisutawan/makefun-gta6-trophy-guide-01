@@ -1,6 +1,8 @@
-import {STORAGE_KEY,SAVE_VERSION} from './config.js';
-export function fresh(){return {version:SAVE_VERSION,earned:new Set(),counters:{},notes:{},settings:{spoilersHidden:true,theme:'paper'}}}
-export function read(){const s=fresh();try{const x=JSON.parse(localStorage.getItem(STORAGE_KEY)||'null');if(!x)return s;if(Array.isArray(x.earned))s.earned=new Set(x.earned.filter(n=>Number.isInteger(n)&&n>0&&n<56));for(const k of ['counters','notes'])if(x[k]&&typeof x[k]==='object')s[k]=x[k];if(x.settings){s.settings.spoilersHidden=x.settings.spoilersHidden!==false;s.settings.theme=x.settings.theme==='night'?'night':'paper'}}catch{}return s}
-export function persist(s){try{localStorage.setItem(STORAGE_KEY,JSON.stringify({version:SAVE_VERSION,earned:[...s.earned].sort((a,b)=>a-b),counters:s.counters,notes:s.notes,settings:s.settings}))}catch{}}
-export function download(s){const b=new Blob([JSON.stringify({earned:[...s.earned],counters:s.counters,notes:s.notes,settings:s.settings},null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='leonida-atlas-save.json';a.click();URL.revokeObjectURL(a.href)}
-export async function importFile(file,s){const x=JSON.parse(await file.text());if(!Array.isArray(x.earned)||x.earned.some(n=>!Number.isInteger(n)||n<1||n>55))throw Error('Save file has an invalid earned list');s.earned=new Set(x.earned);s.counters=x.counters||{};s.notes=x.notes||{};if(x.settings)s.settings={...s.settings,...x.settings};persist(s)}
+import { STORAGE_KEY, SAVE_VERSION } from './config.js';
+const fresh=()=>({version:SAVE_VERSION,earned:[],counters:{},notes:{},settings:{spoilersHidden:true,theme:'paper'}});
+function normalize(value){if(!value||value.version!==SAVE_VERSION)return fresh();return {version:SAVE_VERSION,earned:[...new Set((value.earned||[]).filter(n=>Number.isInteger(n)&&n>=1&&n<=55))].sort((a,b)=>a-b),counters:value.counters||{},notes:value.notes||{},settings:{...fresh().settings,...value.settings}}}
+let state;
+try{state=normalize(JSON.parse(localStorage.getItem(STORAGE_KEY)||'null'))}catch{state=fresh()}
+const listeners=new Set();
+function persist(){localStorage.setItem(STORAGE_KEY,JSON.stringify(state));listeners.forEach(fn=>fn(state))}
+export const store={get:()=>state,subscribe(fn){listeners.add(fn);return()=>listeners.delete(fn)},earned(id){return state.earned.includes(id)},toggle(id){state.earned=state.earned.includes(id)?state.earned.filter(x=>x!==id):[...state.earned,id].sort((a,b)=>a-b);persist()},setNote(id,text){state.notes[id]=text;persist()},setCounter(id,n){state.counters[id]=Math.max(0,Number(n)||0);persist()},setting(key,value){state.settings[key]=value;persist()},reset(){state=fresh();persist()},export(){return new Blob([JSON.stringify(state,null,2)],{type:'application/json'})},async import(file){const parsed=normalize(JSON.parse(await file.text()));state=parsed;persist()}};
