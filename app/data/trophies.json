@@ -1,17 +1,4 @@
 {
-  "game": "Grand Theft Auto VI",
-  "platform": "PlayStation 5",
-  "list": "Official trophy names, descriptions and grades from Exophase; PSN progress targets from PSNProfiles. Advice is original interpretation of those descriptions and has not been verified in game.",
-  "sources": [
-    {
-      "label": "Exophase trophy list",
-      "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-    },
-    {
-      "label": "PSNProfiles trophy list and progress",
-      "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-    }
-  ],
   "trophies": [
     {
       "id": 1,
@@ -21,10 +8,10 @@
       "hidden": false,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.1,
-      "guide": "Treat the platinum as the final sweep: complete every other entry in this checklist. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 2,
@@ -34,10 +21,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
-      "rarity": 100,
-      "guide": "Finish the named opening mission. The official wording adds no optional objective or route. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "rarity": 100.0,
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 3,
@@ -47,10 +34,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.49,
-      "guide": "Complete the chapter. The list does not define an order within it. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 4,
@@ -60,10 +47,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.23,
-      "guide": "Complete the chapter. Follow the story until its completion is recorded. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 5,
@@ -73,10 +60,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.23,
-      "guide": "Complete the chapter. No extra medal or side condition is stated. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 6,
@@ -86,10 +73,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.23,
-      "guide": "Complete the chapter and keep story progress moving. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 7,
@@ -99,10 +86,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.23,
-      "guide": "Finish the final mission; its title and details are not supplied here. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 8,
@@ -112,10 +99,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.23,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 9,
@@ -125,10 +112,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.23,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 10,
@@ -138,10 +125,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.23,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 11,
@@ -151,10 +138,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.23,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 12,
@@ -164,10 +151,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.23,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 13,
@@ -177,10 +164,10 @@
       "hidden": true,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.23,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the named chapter, mission, or finale as the completion checkpoint. The description gives the trigger but not a walkthrough; check the in-game story record rather than guessing a route. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 14,
@@ -190,10 +177,10 @@
       "hidden": false,
       "kind": "story",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 100,
       "rarity": 0.1,
-      "guide": "Use the in-game completion display to identify what remains toward 100 percent. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Treat the 100% requirement as the final audit: use the in-game completion record to identify remaining categories. This list does not specify the categories or their order. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 15,
@@ -203,10 +190,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 250,
       "rarity": 0.1,
-      "guide": "Keep a running tally until the stunt counter reaches the stated total. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 250. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 16,
@@ -216,10 +203,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 9,
       "rarity": 0.13,
-      "guide": "Try each activity category once. The trophy list does not enumerate the categories. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 9. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 17,
@@ -229,10 +216,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 42,
       "rarity": 0.1,
-      "guide": "Work through all 42 range challenges and revisit any result short of gold. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 42. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 18,
@@ -242,10 +229,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 14,
       "rarity": 0.1,
-      "guide": "Track race locations individually; the list gives a total of fourteen, not their names. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 14. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 19,
@@ -255,10 +242,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 20,
       "rarity": 0.13,
-      "guide": "Choose races you have not already won: the requirement is for distinct wins. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 20. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 20,
@@ -268,10 +255,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 1.16,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 21,
@@ -281,10 +268,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.39,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 22,
@@ -294,10 +281,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.13,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 23,
@@ -307,10 +294,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.13,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 24,
@@ -320,10 +307,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.16,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 25,
@@ -333,10 +320,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 8,
       "rarity": 0.1,
-      "guide": "Record each stranger strand as it is completed until eight are done. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 8. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 26,
@@ -346,10 +333,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.1,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 27,
@@ -359,10 +346,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.13,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 28,
@@ -372,10 +359,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 18,
       "rarity": 0.1,
-      "guide": "Keep a spot checklist while exploring; the total is eighteen. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 18. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 29,
@@ -385,10 +372,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.13,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 30,
@@ -398,10 +385,10 @@
       "hidden": true,
       "kind": "collectibles",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 3,
       "rarity": 0.1,
-      "guide": "Count completed sets, not individual cards; three sets are required. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 3. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 31,
@@ -411,10 +398,10 @@
       "hidden": true,
       "kind": "collectibles",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 100,
       "rarity": 0.1,
-      "guide": "Use WAiNK It at new locations and monitor the 100-location tally. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 100. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 32,
@@ -424,10 +411,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 50,
       "rarity": 0.1,
-      "guide": "Track completed challenges toward fifty; eligible challenge types are not named. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 50. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 33,
@@ -437,10 +424,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "maybe",
-      "missable_note": "Possibly missable: attempt this when its described situation appears, since replayability is unknown. This is a cautious inference from the official text, not a confirmed lockout.",
+      "missable_note": "Possibly missable: try this while its described situation is available; whether it can be repeated is not established. This is a cautious reading of the official text, not a confirmed lockout.",
       "target": null,
       "rarity": 0.18,
-      "guide": "Attempt the four-star escape while your partner is present; availability is unverified. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The wording points to a particular situation or choice, so attempt it when that opportunity appears and note the outcome. The description does not confirm whether the event can be repeated. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 34,
@@ -450,10 +437,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "maybe",
-      "missable_note": "Possibly missable: attempt this when its described situation appears, since replayability is unknown. This is a cautious inference from the official text, not a confirmed lockout.",
+      "missable_note": "Possibly missable: try this while its described situation is available; whether it can be repeated is not established. This is a cautious reading of the official text, not a confirmed lockout.",
       "target": null,
       "rarity": 0.16,
-      "guide": "Plan the three shop robberies in sequence and keep the wanted level active. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The wording points to a particular situation or choice, so attempt it when that opportunity appears and note the outcome. The description does not confirm whether the event can be repeated. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 35,
@@ -463,10 +450,10 @@
       "hidden": false,
       "kind": "collectibles",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 100,
       "rarity": 0.39,
-      "guide": "Seek new vehicle models until the discovery counter reaches one hundred. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 100. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 36,
@@ -476,10 +463,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.13,
-      "guide": "Save Combat Focus for a group and take down five enemies during one use. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 37,
@@ -489,10 +476,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "maybe",
-      "missable_note": "Possibly missable: attempt this when its described situation appears, since replayability is unknown. This is a cautious inference from the official text, not a confirmed lockout.",
+      "missable_note": "Possibly missable: try this while its described situation is available; whether it can be repeated is not established. This is a cautious reading of the official text, not a confirmed lockout.",
       "target": null,
       "rarity": 0.23,
-      "guide": "The phrase ‘unscheduled departure’ is unexplained in the list; exact trigger unknown. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The wording points to a particular situation or choice, so attempt it when that opportunity appears and note the outcome. The description does not confirm whether the event can be repeated. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 38,
@@ -502,10 +489,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "maybe",
-      "missable_note": "Possibly missable: attempt this when its described situation appears, since replayability is unknown. This is a cautious inference from the official text, not a confirmed lockout.",
+      "missable_note": "Possibly missable: try this while its described situation is available; whether it can be repeated is not established. This is a cautious reading of the official text, not a confirmed lockout.",
       "target": null,
       "rarity": 0.31,
-      "guide": "The Rhino joke does not identify an unlock condition. This needs in-game verification. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The wording points to a particular situation or choice, so attempt it when that opportunity appears and note the outcome. The description does not confirm whether the event can be repeated. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 39,
@@ -515,10 +502,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.18,
-      "guide": "The requirement is a jewelry store robbery without detection; no location is specified. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 40,
@@ -528,10 +515,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 5,
       "rarity": 0.13,
-      "guide": "Count successful vault robberies and escapes until five are recorded. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 5. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 41,
@@ -541,10 +528,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.16,
-      "guide": "Rob an armored truck, then complete the escape requirement. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 42,
@@ -554,10 +541,10 @@
       "hidden": false,
       "kind": "collectibles",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 52,
       "rarity": 0.16,
-      "guide": "The progress total is 52 areas. Use the map to locate undiscovered regions. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 52. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 43,
@@ -567,10 +554,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 9,
       "rarity": 0.13,
-      "guide": "Track gang coverage: the progress target is nine distinct gangs. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 9. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 44,
@@ -580,10 +567,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.21,
-      "guide": "Ocean Beach is named, but the specific venue is not pinned down. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 45,
@@ -593,10 +580,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "maybe",
-      "missable_note": "Possibly missable: attempt this when its described situation appears, since replayability is unknown. This is a cautious inference from the official text, not a confirmed lockout.",
+      "missable_note": "Possibly missable: try this while its described situation is available; whether it can be repeated is not established. This is a cautious reading of the official text, not a confirmed lockout.",
       "target": null,
       "rarity": 0.13,
-      "guide": "The showroom exit wording is broad; the precise action is not confirmed. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The wording points to a particular situation or choice, so attempt it when that opportunity appears and note the outcome. The description does not confirm whether the event can be repeated. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 46,
@@ -606,10 +593,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.16,
-      "guide": "Use the exact requirement in the description as the checklist item; the list does not establish a location or extra step. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 47,
@@ -619,10 +606,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "maybe",
-      "missable_note": "Possibly missable: attempt this when its described situation appears, since replayability is unknown. This is a cautious inference from the official text, not a confirmed lockout.",
+      "missable_note": "Possibly missable: try this while its described situation is available; whether it can be repeated is not established. This is a cautious reading of the official text, not a confirmed lockout.",
       "target": null,
       "rarity": 0.16,
-      "guide": "The description is cryptic and provides no confirmed location or action. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The wording points to a particular situation or choice, so attempt it when that opportunity appears and note the outcome. The description does not confirm whether the event can be repeated. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 48,
@@ -632,10 +619,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "maybe",
-      "missable_note": "Possibly missable: attempt this when its described situation appears, since replayability is unknown. This is a cautious inference from the official text, not a confirmed lockout.",
+      "missable_note": "Possibly missable: try this while its described situation is available; whether it can be repeated is not established. This is a cautious reading of the official text, not a confirmed lockout.",
       "target": 500,
       "rarity": 0.18,
-      "guide": "The PSN target is 500 choices; eligible choice types are not defined here. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The wording points to a particular situation or choice, so attempt it when that opportunity appears and note the outcome. The description does not confirm whether the event can be repeated. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 49,
@@ -645,10 +632,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "maybe",
-      "missable_note": "Possibly missable: attempt this when its described situation appears, since replayability is unknown. This is a cautious inference from the official text, not a confirmed lockout.",
+      "missable_note": "Possibly missable: try this while its described situation is available; whether it can be repeated is not established. This is a cautious reading of the official text, not a confirmed lockout.",
       "target": null,
       "rarity": 0.16,
-      "guide": "The hint suggests a second attempt, but does not identify the activity. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The wording points to a particular situation or choice, so attempt it when that opportunity appears and note the outcome. The description does not confirm whether the event can be repeated. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 50,
@@ -658,10 +645,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "maybe",
-      "missable_note": "Possibly missable: attempt this when its described situation appears, since replayability is unknown. This is a cautious inference from the official text, not a confirmed lockout.",
+      "missable_note": "Possibly missable: try this while its described situation is available; whether it can be repeated is not established. This is a cautious reading of the official text, not a confirmed lockout.",
       "target": null,
       "rarity": 0.18,
-      "guide": "The text implies an unusual event; no trigger or place is established. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The wording points to a particular situation or choice, so attempt it when that opportunity appears and note the outcome. The description does not confirm whether the event can be repeated. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 51,
@@ -671,10 +658,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": null,
       "rarity": 0.18,
-      "guide": "The description calls for a melee strike from a moving vehicle. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "The description sets the goal, but leaves the route or qualifying trigger unspecified. Keep this on the checklist and confirm the event in game; no exact location or method is pinned down here. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 52,
@@ -684,10 +671,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 250000,
       "rarity": 0.13,
-      "guide": "Use contacts to launder Marked Bills; track credited money to $250,000. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 250,000. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 53,
@@ -697,10 +684,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 100000,
       "rarity": 0.18,
-      "guide": "Make shop purchases and monitor the accumulated $100,000 spend. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 100,000. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 54,
@@ -710,10 +697,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 8,
       "rarity": 0.16,
-      "guide": "The counter indicates eight garage properties to purchase. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 8. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     },
     {
       "id": 55,
@@ -723,10 +710,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": "no",
-      "missable_note": "No one-time lockout is established by the official description; not verified in game.",
+      "missable_note": "The official description does not establish a one-time lockout; repeatability has not been checked in game.",
       "target": 10,
       "rarity": 0.16,
-      "guide": "Register ten vehicles in Scooter Bros; registrations differ from discoveries. Sources: Exophase for official name, description and grade; PSNProfiles for a progress count where shown; our own advice from the official description, not yet checked in the game."
+      "guide": "Use the displayed total as a checkpoint: the stated requirement is 10. The official wording does not identify a route or exact qualifying instances, so log verified progress in game. Sources: Exophase for the official name, description and grade; PSNProfiles for the progress target when one is listed; original advice from the official description, not yet checked in game."
     }
   ]
 }
